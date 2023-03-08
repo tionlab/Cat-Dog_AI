@@ -23,8 +23,10 @@ Tensorflow를 활용한 강아지 고양이 구별 AI 입니다!
 <p align="center">
 <img src="https://i.ibb.co/fQd1kGG/sfwf.png"></img>
 </p>
+
+
 <h align="center">
-<img src="hhttps://i.ibb.co/28SX1wT/sdfs.png"></img>
+<imgs src="hhttps://i.ibb.co/28SX1wT/sdfs.png"></imgs>
 </h>
 
 ## PIP install (install.py)
