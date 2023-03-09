@@ -1,4 +1,4 @@
-# Cat-Dog_AI
+# Cat-Dog_AI (Cat Or Dog? [COD])
 Tensorflowf를 사용한 강아지, 고양이 구별 AI
 
 ## FAST START
