@@ -52,7 +52,6 @@ def close_app():
 
 
 def refresh():
-    # * function 쓴다는걸 까먹어서 그냥 적었는데 고치기가 귀찮은..
     # ! 표시 창 상태 변경
     img3 = Image.open(image_path)
     resize_image2 = img3.resize((300, 300))
